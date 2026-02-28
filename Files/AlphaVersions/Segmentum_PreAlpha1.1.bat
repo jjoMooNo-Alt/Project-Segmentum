@@ -1,7 +1,7 @@
 :: Segmentum Client Pre-Alpha-1.1
 :: Copyright by jjoMooNo
 @echo off
-title Segmentum EX (1c-001)
+title Segmentum Client Pre-Alpha-1.1
 color a
 echo "Welcome to Segmentum Client!"
 echo "What do you want to do?"
