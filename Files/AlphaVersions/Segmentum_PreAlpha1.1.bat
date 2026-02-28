@@ -1,4 +1,4 @@
-:: Segmentum-EX 1c-001
+:: Segmentum Client Pre-Alpha-1.1
 :: Copyright by jjoMooNo
 @echo off
 title Segmentum EX (1c-001)
